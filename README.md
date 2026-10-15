@@ -1,6 +1,6 @@
 # Palantir (PLTR) Three-Scenario DCF Valuation
 
-[Please find the download](https://github.com/tndntb9ym9-rgb/DCF-Palantir-Three-Scenario-Valuation/blob/main/Palantir_DCF.xlsx)
+[Please find the download](https://github.com/your-username/your-repo/raw/main/Palantir%20DCF%20GITHUB.xlsx)
 
 A discounted cash flow model valuing Palantir Technologies under three scenarios (Conservative, Base, Optimistic), built in Excel from 2018-2024 financial data.
 
