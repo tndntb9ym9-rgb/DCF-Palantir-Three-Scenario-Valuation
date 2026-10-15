@@ -2,7 +2,7 @@
 
 A discounted cash flow model valuing Palantir Technologies under three scenarios (Conservative, Base, Optimistic), built in Excel from 2018-2024 financial data.
 
-**Data source:** [FactSet Fundamentals]
+**Data source:** FactSet Fundamentals
 
 ## Overview
 This model projects Palantir's free cash flows and discounts them to derive an intrinsic value per share. It compares the result with the market price to test what the market is pricing in.
